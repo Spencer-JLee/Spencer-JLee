@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a MERN stack project with two other developers
+- 🔭 I’m currently working on a MERN stack project
 - 🌱 I’m currently learning React Hooks
 - 📫 How to reach me: 
   - Email: spencer.lee.careers@gmail.com
