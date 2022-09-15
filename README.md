@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
   - Email: spencer.lee.careers@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/spencer-lee-693335186/)
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/him/his
 
 
 <!--
