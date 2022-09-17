@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, welcome to my GitHub
 
 <!-- - 🔭 I’m currently working on a MERN stack project -->
 - 🌱 I’m currently learning React Hooks
